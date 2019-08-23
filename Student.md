@@ -12,4 +12,4 @@
 
 ผลการทดลอง
 
-<p align="center">  <img src="./IMAGES2/Student.PNG"> </p>
+<p align="center">  <img src="./IMAGES2/HOMEWORK1.PNG"> </p>
