@@ -28,4 +28,4 @@
 
 ผลการทดลอง
 
-<p align="center">  <img src="./IMAGES2/HOMEWORK2.PNG"> </p>
+<p align="center">  <img src="./IMAGES2/HOMEWORK2.png"> </p>
