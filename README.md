@@ -1,5 +1,5 @@
-# COM-59
-
-Computer Laboratory 2562-lab059
-My name is Sirada Soonthorn
-Edited by Github Text Editor
+#include <stdio.h>
+main( )
+{
+    printf("hello, world\n");
+}
